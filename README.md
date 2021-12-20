@@ -5,7 +5,7 @@
 
 Objetivos específicos: 
 -	Comprender,identificar y relacionar  a los circuitos mixtos (serie-paralelo), así como también  las fallas que pueden presentar en el ámbito practico.
--	Aplicar la teoría tanto los divisores de voltaje como de corriente de ser necesario .
+-	Aplicar la teoría tanto de los divisores de voltaje como de corriente de ser necesario .
 -	Analizar las redes en escalera y el puente Wheatstone para su futura aplicación en los ejercicios del capítulo.
 -	Realizar los cálculos correspondientes para medir corrientes, voltajes y resistencias de forma correcta.
 -	Aplicar el teorema de superposición para la resolución de ejercicios, así como también el teorema de Norton y Thevening , el cual nos permitirá simplificar el circuito. 
