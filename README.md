@@ -41,7 +41,7 @@ c)R2,R3-- Paralelo
 R4,5--Paralelo
 R1-Paralelo
 
-**. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
+**9 Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente**
 
 A
