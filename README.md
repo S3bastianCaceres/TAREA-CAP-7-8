@@ -246,6 +246,24 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 ![imagen](https://user-images.githubusercontent.com/93798427/146659604-be86446a-6f00-437b-a925-306aed2fd931.png)
 
+**9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816397-303826f4-b193-4238-a1aa-33bd95070204.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816743-d84b380a-9a9e-43a1-a2d3-f709fcfd0e0a.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816535-fed54dfe-48be-4afe-9bf7-0181624d6e41.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816641-8fe7a44d-4137-4020-be47-b2d8629feecd.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816847-faa00a50-2420-4fbd-8455-82ad42025448.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146816998-b57614d2-618b-42ab-b113-8e4e8bf6b887.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817081-77b13d41-589c-4dd9-bbb7-6fed225fc903.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817144-c66f3b38-d11e-4b6d-9354-5930b5ffd828.png)
+
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/146808951-66266b3c-66b8-462a-b0b2-a8dea001cd36.png)
