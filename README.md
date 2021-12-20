@@ -224,6 +224,28 @@ para la operación apropiada de un amplificador. Aunque no se espera que usted c
 
 ![imagen](https://user-images.githubusercontent.com/93798427/146686328-b1821e3a-ced0-4dc1-bf03-5f558a02696e.png)
 
+**45. Repita el problema 44 para las siguientes condiciones
+(a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+(b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+(c) Todos los interruptores conectados a 12 V**
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817781-3fcc3ad5-7ce2-4cc5-b83b-a652677eca94.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817807-dd831cca-efb0-4049-8ab0-9efded9d5ce8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817831-22811d07-67e7-470d-aa85-2b55d3d73970.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817856-2151e5af-b82c-4fa4-bea7-7eee622c45c9.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817890-e93e4c68-8259-40c6-abc3-8acc77faab7a.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817927-6aed09f7-00b0-477e-8471-da0fd841ac89.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/146817961-9473af65-9ba7-4898-8b24-33956b3bf2be.png)
+
+
+
 **51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/146686391-2a8c4109-5403-40ec-b0c2-898f7431aedd.png)
