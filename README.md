@@ -648,15 +648,15 @@ a la red en configuración de escalera de la figura 8-87?**
 ![image](https://user-images.githubusercontent.com/93739242/147994951-8a2ce9bd-bb6f-4051-bd25-44a67d55b53c.png)
 
 
-# VIDEO #
+# Video #
 
 
 
-# CONCLUSIONES #
+# Conclusiones #
 
 
 
 
-# BIBLIOGRAFÍA #
+# Bibliografía #
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
