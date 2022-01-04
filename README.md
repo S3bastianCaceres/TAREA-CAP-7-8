@@ -634,6 +634,9 @@ a la red en configuración de escalera de la figura 8-87?**
 
 <img src="https://latex.codecogs.com/svg.image?\\&space;R_{C}=\frac{R_{1}R_{2}&plus;R_{3}R_{1}&plus;R_{2}R_{3}}{R_{3}}&space;\\[10pt]&space;R_{C}=\frac{(12\Omega&space;)(22\Omega&space;)&plus;(12\Omega&space;)(18\Omega&space;)&plus;(22\Omega&space;)(18\Omega&space;)}{18\Omega&space;}&space;\\[10pt]&space;R_{C}=\frac{(264\Omega^{2}&space;)&plus;(216\Omega^{2}&space;)&plus;(396\Omega^{2}&space;)}{18\Omega&space;}&space;\\[10pt]R_{C}=\frac{(876\Omega^{2}&space;)}{18\Omega&space;}=48.67\Omega&space;&space;" title="\\ R_{C}=\frac{R_{1}R_{2}+R_{3}R_{1}+R_{2}R_{3}}{R_{3}} \\[10pt] R_{C}=\frac{(12\Omega )(22\Omega )+(12\Omega )(18\Omega )+(22\Omega )(18\Omega )}{18\Omega } \\[10pt] R_{C}=\frac{(264\Omega^{2} )+(216\Omega^{2} )+(396\Omega^{2} )}{18\Omega } \\[10pt]R_{C}=\frac{(876\Omega^{2} )}{18\Omega }=48.67\Omega " />
 
+![image](https://user-images.githubusercontent.com/93739242/147994975-d89b73ba-4de6-49e1-b532-139a2be91be6.png)
+
+
 ![image](https://user-images.githubusercontent.com/93739242/147994878-9194c9cc-7691-4508-a344-f51c9c04b929.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\&space;R_{A}=\frac{R_{1}R_{2}&plus;R_{3}R_{1}&plus;R_{2}R_{3}}{R_{2}}&space;\\[10pt]&space;R_{A}=\frac{(6.8k\Omega&space;)(3.3k\Omega&space;)&plus;(6.8k\Omega&space;)(4.7k\Omega&space;)&plus;(3.3k\Omega&space;)(4.7k\Omega&space;)}{3.3k\Omega&space;}&space;\\[10pt]&space;R_{A}=\frac{(22.44k\Omega^{2}&space;)&plus;(31.96k\Omega^{2}&space;)&plus;(15.51k\Omega^{2}&space;)}{3.3k\Omega&space;}&space;\\[10pt]R_{A}=\frac{(69.91k\Omega^{2}&space;)}{3.3k\Omega&space;}=21.18k\Omega&space;&space;" title="\\ R_{A}=\frac{R_{1}R_{2}+R_{3}R_{1}+R_{2}R_{3}}{R_{2}} \\[10pt] R_{A}=\frac{(6.8k\Omega )(3.3k\Omega )+(6.8k\Omega )(4.7k\Omega )+(3.3k\Omega )(4.7k\Omega )}{3.3k\Omega } \\[10pt] R_{A}=\frac{(22.44k\Omega^{2} )+(31.96k\Omega^{2} )+(15.51k\Omega^{2} )}{3.3k\Omega } \\[10pt]R_{A}=\frac{(69.91k\Omega^{2} )}{3.3k\Omega }=21.18k\Omega " />
@@ -644,6 +647,7 @@ a la red en configuración de escalera de la figura 8-87?**
 
 <img src="https://latex.codecogs.com/svg.image?\\&space;R_{C}=\frac{R_{1}R_{2}&plus;R_{3}R_{1}&plus;R_{2}R_{3}}{R_{3}}&space;\\[10pt]&space;R_{C}=\frac{(6.8k\Omega&space;)(3.3k\Omega&space;)&plus;(6.8k\Omega&space;)(4.7k\Omega&space;)&plus;(3.3k\Omega&space;)(4.7k\Omega&space;)}{4.7k\Omega&space;}&space;\\[10pt]&space;R_{C}=\frac{(22.44k\Omega^{2}&space;)&plus;(31.96k\Omega^{2}&space;)&plus;(15.51k\Omega^{2}&space;)}{4.7k\Omega&space;}&space;\\[10pt]R_{C}=\frac{(69.91k\Omega^{2}&space;)}{4.7k\Omega&space;}=14.87k\Omega&space;&space;" title="\\ R_{C}=\frac{R_{1}R_{2}+R_{3}R_{1}+R_{2}R_{3}}{R_{3}} \\[10pt] R_{C}=\frac{(6.8k\Omega )(3.3k\Omega )+(6.8k\Omega )(4.7k\Omega )+(3.3k\Omega )(4.7k\Omega )}{4.7k\Omega } \\[10pt] R_{C}=\frac{(22.44k\Omega^{2} )+(31.96k\Omega^{2} )+(15.51k\Omega^{2} )}{4.7k\Omega } \\[10pt]R_{C}=\frac{(69.91k\Omega^{2} )}{4.7k\Omega }=14.87k\Omega " />
 
+![image](https://user-images.githubusercontent.com/93739242/147994951-8a2ce9bd-bb6f-4051-bd25-44a67d55b53c.png)
 
 
 
