@@ -30,8 +30,7 @@
 
 **CAPITULO 8**
 
-[![CAP888888888888888888888888888888888888888888888888888888888888.jpg](https://i.postimg.cc/qB1vtwH1/CAP888888888888888888888888888888888888888888888888888888888888.jpg)](https://postimg.cc/yWSHtFdR)
-
+[![capitulo8-tarea.jpg](https://i.postimg.cc/L5WqjBwg/capitulo8-tarea.jpg)](https://postimg.cc/T5rY6mRT)
 
 ## EJERCICIOS ##
 
