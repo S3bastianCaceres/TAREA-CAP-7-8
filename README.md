@@ -2,8 +2,14 @@
  
 # Objetivos #
 
+**Objetivo General:**
 
-Objetivos específicos: 
+- Analizar de manera adecuada el como se combinan los resistores en serie y en paralelo para asi reconocer importantes tipos de circuitos con el divisor de voltaje con carga resistiva, la red en escalera y el puente de wheatstone presentes en varias situaciones practicas, además, se identifican nuevos metodos que facilitaran el analisis de circuitos complejos debido a que los circuitos son controlados por fuentes de voltaje o corriente y es importante entender como estos elementos funcionan.
+
+
+
+**Objetivos específicos:**
+
 -	Comprender,identificar y relacionar  a los circuitos mixtos (serie-paralelo), así como también  las fallas que pueden presentar en el ámbito practico.
 -	Aplicar la teoría tanto de los divisores de voltaje como de corriente de ser necesario .
 -	Analizar las redes en escalera y el puente Wheatstone para su futura aplicación en los ejercicios del capítulo.
@@ -13,24 +19,16 @@ Objetivos específicos:
 -	Dibujar los circuitos simplificados para el mejor entendimiento de los problemas.
 
 
+# Marco Teórico #
+
+**CAPITULO 7**
+
+[![CAPITULO-7-PT1.png](https://i.postimg.cc/W49Jjx2Y/CAPITULO-7-PT1.png)](https://postimg.cc/yJZNyQ30)
 
 
+[![CAPITULO-7-PT2.png](https://i.postimg.cc/V6d0N4vf/CAPITULO-7-PT2.png)](https://postimg.cc/N9vjJ6RS)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**CAPITULO 8**
 
 
 
@@ -650,4 +648,15 @@ a la red en configuración de escalera de la figura 8-87?**
 ![image](https://user-images.githubusercontent.com/93739242/147994951-8a2ce9bd-bb6f-4051-bd25-44a67d55b53c.png)
 
 
+# VIDEO #
 
+
+
+# CONCLUSIONES #
+
+
+
+
+# BIBLIOGRAFÍA #
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
