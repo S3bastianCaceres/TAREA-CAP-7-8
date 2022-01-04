@@ -30,7 +30,8 @@
 
 **CAPITULO 8**
 
-[![capitulo8-tarea.jpg](https://i.postimg.cc/L5WqjBwg/capitulo8-tarea.jpg)](https://postimg.cc/T5rY6mRT)
+
+
 
 ## EJERCICIOS ##
 
@@ -646,16 +647,22 @@ a la red en configuración de escalera de la figura 8-87?**
 
 ![image](https://user-images.githubusercontent.com/93739242/147994951-8a2ce9bd-bb6f-4051-bd25-44a67d55b53c.png)
 
+**SIN EJERCICIOS REALIZADOS DE ESTEBAN CACERES**
 
 # Video #
 
-
+https://youtu.be/KwGtQCp0JOM
 
 # Conclusiones #
 
-
+- A través de la lectura del capitulo su comprensión y ejercicios realizados se puede determinar lo importante que son los circuitos mixtos y la variedad de sus aplicaciones de modo que se logro realizar e implementar los diferentes metodos de resolución para estos ejercicios complejos y se determino que aprendizajes revisados anteriormente como la ley de Ohm, leyes del voltaje y la corriente de kirchhoff, y los metodos para determinar resistencia total y potencia forman parte de la resolución de este tipo de circuitos los cuales se pueden observar en muchas situaciones practicas donde se tendrán combinaciones tanto en serie como en paralelo dentro del mismo circuito.
+- En conclusión tambien tenemos que gracias a los teoremas de circuitos y conversiones se nos facilitara el analisis de cierto tipo de circuitos, y que ademas este tipo de metodos no reemplazan a la ley de Ohm ni a las leyes de Kirchhoff, mas bien estos conceptos son necesarios y normalmente se utilizan junto a estos teoremas en ciertas situaciones.
 
 
 # Bibliografía #
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
+
+Circuitos Mixtos Eléctricos y Ejercicios Resueltos. (s. f.). AREATECNOLOGICA. https://www.areatecnologia.com/Calculo-circuitos-mixtos.htm
+
+M. (2021a, abril 16). Circuito Mixto. Definición y ejemplos. MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/circuito-mixto/
